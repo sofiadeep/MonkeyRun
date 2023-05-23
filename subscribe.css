@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    background-color: lightgreen;
+    padding-bottom: 10px;
+  }
+
+/* header formatting */
+.header1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    font-weight: bolder;
+    vertical-align: top;
+    font-size: 75px;
+    color: brown;
+  
+    width: 100%;
+    height:170px;
+    position: fixed;
+    line-height: 140px;
+    padding-bottom: 50px;
+    z-index: 2;
+}
+
+/* menu formatting */
+.topnav {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    font-weight: bold;
+    vertical-align: middle;
+    font-size: 25px;
+    width: 100%;
+    height: 55px;
+    position:fixed;
+    margin-top: 125px;
+    z-index: 2;
+}
+
+li{
+    display:inline-block;
+}
+
+a{
+    vertical-align: middle;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;    
+    padding-bottom: 10px;
+    
+}
+/* menu hover formatting */
+a:hover {
+    color: white;
+    background-color: black;   
+}
+
+.paragraph3{
+    position: absolute;
+    text-align: center;
+    top: 275px;
+    margin-left: 140px;
+    color: black;
+    font-size: larger;
+}
+
+.img3{
+    position: absolute;
+    width: 450px;
+    top: 200px;
+    margin-left: 700px;
+}
+
+.form1{
+    position: absolute;
+    top: 600px;
+    margin-left: 500px;
+    color:black;
+    font-size: larger;
+}

@@ -1,0 +1,145 @@
+* {vertical-align: middle;
+    margin: 0;
+    background-color: lightgreen;
+    padding-bottom: 10px;
+    text-align: center;
+
+  }
+
+/* header formatting */
+.header1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    font-weight: bolder;
+    vertical-align: top;
+    font-size: 75px;
+    color: brown;
+  
+    width: 100%;
+    height:170px;
+    position: fixed;
+    line-height: 140px;
+    padding-bottom: 50px;
+    z-index: 2;
+}
+.topnav {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    font-weight: bold;
+    vertical-align: middle;
+    font-size: 25px;
+    width: 100%;
+    height: 55px;
+    position:fixed;
+    margin-top: 125px;
+    z-index: 2;
+}
+
+li{
+    display:inline-block;
+}
+
+a{
+    vertical-align: middle;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;    
+    padding-bottom: 10px;
+    
+}
+
+/* menu hover formatting */
+a:hover {
+    color: white;
+    background-color: black;   
+}
+
+section {
+    margin: 10px;
+    border: 20px solid brown ;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    position: relative;
+    top: 200px;
+    
+    background-color: white;
+    box-shadow: 0 10px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+.blog1 {
+  background-size: 200px  200px;
+  height:120px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+.blog2 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog3 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog4 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog5 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog6 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog7 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog8 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog9 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog10 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog11 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
+.blog12 {
+    background-size: 200px  200px;
+    height:120px;
+    text-align: center;
+    vertical-align: middle;
+}
